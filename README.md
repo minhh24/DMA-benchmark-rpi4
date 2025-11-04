@@ -26,7 +26,7 @@ Cấu Hình \& Yêu Cầu
 
 Yêu cầu phần cứng
 
-Raspberry Pi 4 Model B (Hoặc phiên bản Pi sử dụng chip Broadcom có hỗ trợ DMA).
+Raspberry Pi 4 
 
 Logic Analyzer (Tùy chọn, để xem xung GPIO 17 \& 18).
 
