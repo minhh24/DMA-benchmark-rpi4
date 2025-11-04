@@ -47,4 +47,5 @@ Quyền hạn: Chương trình phải được chạy với quyền root (sử d
 link tài liệu:   https://docs.google.com/document/d/1JtbS2vMBXvNdPLcXgT6FZMWv53d32FApzKT1UJsHgFk/edit?usp=sharing
 
 link video demo:   https://www.youtube.com/watch?v=XftPizQVmlU
+
 Nguyen Quang Minh - 22139041
