@@ -6,7 +6,7 @@
  * - Use 2 GPIO pins to output pulses for timing with a Logic Analyzer.
  *
  * PROGRAM FLOW:
- * 1. Initialize 2 GPIO pins (17 for memcpy, 18 for DMA) as outputs.
+ * 1. Initialize 2 GPIO pins (17 for memcpy, 18 for DMA) as outputs
  * 2. Read the user-created file 'dma_src.txt' to get its size.
  * 3. Request 2 contiguous physical memory blocks (src, dst) from the Kernel via Mailbox.
  * 4. Read the entire 'dma_src.txt' file into the 'src' memory block.
