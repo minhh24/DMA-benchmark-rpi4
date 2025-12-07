@@ -48,4 +48,4 @@ link tài liệu:   https://docs.google.com/document/d/1JtbS2vMBXvNdPLcXgT6FZMWv
 
 link video demo:   https://www.youtube.com/watch?v=XftPizQVmlU
 
-Nguyen Quang Minh - 22139041
+Nguyen Quang Minh - 0916254336
