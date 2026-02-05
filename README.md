@@ -2,7 +2,7 @@
 
 
 
-Dự án này là một bài Lab so sánh tốc độ sao chép bộ nhớ RAM-to-RAM giữa phương pháp sử dụng CPU truyền thống (memcpy()) và phương pháp sử dụng Bộ điều khiển truy cập bộ nhớ trực tiếp (DMA) trên Raspberry Pi 4.
+ project này là một bài Lab so sánh tốc độ sao chép bộ nhớ RAM-to-RAM giữa phương pháp sử dụng CPU truyền thống (memcpy()) và phương pháp sử dụng Bộ điều khiển truy cập bộ nhớ trực tiếp (DMA) trên Raspberry Pi 4.
 
 DMA cho phép phần cứng tự thực hiện việc sao chép dữ liệu mà không cần làm phiền CPU, giải phóng CPU cho các tác vụ khác.
 
