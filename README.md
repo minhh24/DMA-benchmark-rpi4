@@ -10,7 +10,7 @@ DMA cho phép phần cứng tự thực hiện việc sao chép dữ liệu mà 
 
 
 
-Mục Tiêu Bài Lab
+Mục Tiêu project
 
 So sánh tốc độ: Đo lường và so sánh thời gian thực hiện của memcpy() (CPU) và DMA (Phần cứng).
 
